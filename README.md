@@ -1,16 +1,16 @@
 # Video augmentation and graph exploration
 
-Prof.
+Edurell Project PI: 
+-  Ilaria Torre
 
-- Ilaria Torre
+Edurell Video Augmentation app
 
-- Ilenia Galluccio
-
-Students.
-
+Software development:
 - Thomas Neveux
-
 - Julie Massari
+
+Use case definition:
+- Ilenia Galluccio
 
 <br>
 
