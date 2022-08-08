@@ -1,18 +1,5 @@
 # Video augmentation and graph exploration
 
-Edurell Project PI: 
--  Ilaria Torre
-
-Edurell Video Augmentation app
-
-Software development:
-- Thomas Neveux
-- Julie Massari
-
-Use case definition:
-- Ilenia Galluccio
-
-<br>
 
 ### Short description of the project:
 
@@ -165,4 +152,16 @@ The app should start automatically in the default browser at this point..
 
 Follow this guide:
 https://drive.google.com/file/d/1hta5qeYVr-2U9mcQdjT0-a_NacvhYUPC/view?usp=sharing
+
+
+Credits
+
+Edurell Video Augmentation app
+
+Software development:
+- Thomas Neveux
+- Julie Massari
+
+Use case definition:
+- Ilenia Galluccio
 
